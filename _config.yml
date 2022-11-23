@@ -1,6 +1,6 @@
 title: .NET Conf Thailand
 description: Official .NET Conf Thailand
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/2021" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: dotnetconfth
 

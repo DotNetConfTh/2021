@@ -765,7 +765,7 @@ h4,
 .hero-banner {
     position: relative;
     padding: 70px 0;
-    background: url("/assets/img/{{page.year}}/banner/hero-banner.png") left center no-repeat;
+    background: url("assets/img/{{page.year}}/banner/hero-banner.png") left center no-repeat;
     background-size: cover
 }
 
@@ -965,17 +965,17 @@ h4,
 }
 
 .clockdiv .clockdiv-day {
-    background: url("/assets/img/{{page.year}}/home/countdown-day.png") left center no-repeat;
+    background: url("assets/img/{{page.year}}/home/countdown-day.png") left center no-repeat;
     background-size: cover
 }
 
 .clockdiv .clockdiv-hour {
-    background: url("/assets/img/{{page.year}}/home/countdown-hour.png") left center no-repeat;
+    background: url("assets/img/{{page.year}}/home/countdown-hour.png") left center no-repeat;
     background-size: cover
 }
 
 .clockdiv .clockdiv-minute {
-    background: url("/assets/img/{{page.year}}/home/countdown-minute.png") left center no-repeat;
+    background: url("assets/img/{{page.year}}/home/countdown-minute.png") left center no-repeat;
     background-size: cover
 }
 
@@ -996,7 +996,7 @@ h4,
     margin-right: auto;
     margin-left: auto;
     display: block;
-    background: url("/assets/img/{{page.year}}/home/feature-icon-bg.png") left center no-repeat;
+    background: url("assets/img/{{page.year}}/home/feature-icon-bg.png") left center no-repeat;
     background-size: cover;
     -webkit-transition: all 0.3s ease 0s;
     -moz-transition: all 0.3s ease 0s;
@@ -1038,7 +1038,7 @@ h4,
 }
 
 .card-feature:hover .feature-icon {
-    background: url("/assets/img/{{page.year}}/home/feature-icon-active-bg.png") left center no-repeat;
+    background: url("assets/img/{{page.year}}/home/feature-icon-active-bg.png") left center no-repeat;
     background-size: cover
 }
 
@@ -1048,7 +1048,7 @@ h4,
 }
 
 .speaker-bg {
-    background: url("/assets/img/{{page.year}}/home/speaker-bg.png") left center no-repeat;
+    background: url("assets/img/{{page.year}}/home/speaker-bg.png") left center no-repeat;
     background-size: cover
 }
 
@@ -1536,7 +1536,7 @@ h4,
 }
 
 .sponsor-bg {
-    background: url("/assets/img/{{page.year}}/home/sponsor-bg.png") left center no-repeat;
+    background: url("assets/img/{{page.year}}/home/sponsor-bg.png") left center no-repeat;
     background-size: cover
 }
 
@@ -1584,7 +1584,7 @@ h4,
 }
 
 .gallery-bg {
-    background: url("/assets/img/{{page.year}}/home/gallery-bg.png") left center no-repeat;
+    background: url("assets/img/{{page.year}}/home/gallery-bg.png") left center no-repeat;
     background-size: cover
 }
 

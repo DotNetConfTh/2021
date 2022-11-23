@@ -1,9 +1,9 @@
 source "https://rubygems.org"
 gem "jekyll", "= 4.1.0"
 
-group :jekyll_plugins do
-    gem "jekyll-redirect-from", "~> 0.16.0"
-end
+# group :jekyll_plugins do
+#     gem "jekyll-redirect-from", "~> 0.16.0"
+# end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
